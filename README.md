@@ -1,6 +1,8 @@
 # Web-App-Work (HTML, CSS, Front-end JS, Back-end JS, PostgreSQL)
 My group and I worked on designing a course registration page with three types of users: students, teachers, and administrators. 
+
 My role was to create the login page and student page, which included frontend(HTML, CSS, Javascript) and backend(Node JS, PostgreSQL).
+
 The project description is defined below:
 https://github.com/Really-Average-Developers-R-A-D/Project_Repo
 
