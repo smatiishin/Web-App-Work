@@ -1,4 +1,4 @@
-# Web-App-Work
+# Web-App-Work (HTML, CSS, Front-end JS, Back-end JS, PostgreSQL)
 My group and I worked on designing a course registration page with three types of users: students, teachers, and administrators. The project description is defined below:
 https://github.com/Really-Average-Developers-R-A-D/Project_Repo
 
