@@ -13,3 +13,5 @@ The proposed system will support three (3) user roles:
 2. User role “teacher”: responsible for adding, updating, and removing courses from the major curriculum
 3. User role “student”: can register for a course or drop a course. This means that a student can add and remove courses from their account
 
+Refer to "Web-App-Screenshots" for the websites' login and student landing pages.
+
